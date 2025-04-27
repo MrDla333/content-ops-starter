@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: 2025 DZLOL
       color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here

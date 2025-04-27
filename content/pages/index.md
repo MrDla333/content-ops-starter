@@ -19,7 +19,7 @@ sections:
 
 
     actions:
-      - label: See Tutorials
+      - label: SIGN UP
         altText: ''
         url: /
         showIcon: true

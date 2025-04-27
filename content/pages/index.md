@@ -28,6 +28,16 @@ sections:
         style: primary
         elementId: ''
         type: Link
+      - type: Button
+        label: Get started
+        altText: ''
+        url: >-
+          /https://docs.google.com/forms/d/e/1FAIpQLSdO7cNzI_Ak1Uk1Odu46y8trs0RpoCgToq1XGSWFAe12HwNgg/viewform?usp=header
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: >-
         /images/purepng.com-cyberpop-zoe-skinlolleague-of-legendsrenderzoecyberpop-331521945068oruji.png

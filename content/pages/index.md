@@ -38,7 +38,7 @@ sections:
       type: ImageBlock
     badge:
       label: Welcome
-      color: text-dark
+      color: text-light
       type: Badge
     elementId: ''
     colors: bg-neutral-fg-dark

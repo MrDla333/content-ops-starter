@@ -32,7 +32,8 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
+      url: >-
+        /images/purepng.com-cyberpop-zoe-skinlolleague-of-legendsrenderzoecyberpop-331521945068oruji.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock

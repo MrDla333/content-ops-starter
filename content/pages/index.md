@@ -30,7 +30,7 @@ sections:
         style: secondary
         elementId: ''
       - type: Link
-        label: Play
+        label: SIGN UP
         altText: Play
         url: >-
           /https://docs.google.com/forms/d/e/1FAIpQLSdO7cNzI_Ak1Uk1Odu46y8trs0RpoCgToq1XGSWFAe12HwNgg/viewform?usp=header

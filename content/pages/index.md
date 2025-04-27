@@ -19,16 +19,6 @@ sections:
 
 
     actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSdO7cNzI_Ak1Uk1Odu46y8trs0RpoCgToq1XGSWFAe12HwNgg/viewform?usp=header
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
       - type: Link
         label: SIGN UP
         altText: SIGN UP

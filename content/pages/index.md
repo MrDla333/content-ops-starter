@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 2025 DZLOL
+      text: 2025 DZLOL COMMUNITY CUP
       color: text-light
       type: TitleBlock
     subtitle: Subtitle goes here

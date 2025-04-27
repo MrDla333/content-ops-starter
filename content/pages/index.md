@@ -58,6 +58,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/cover (1).jpg
   - type: FeaturedItemsSection
     title:
       text: Key Benefits

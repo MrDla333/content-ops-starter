@@ -19,15 +19,6 @@ sections:
 
 
     actions:
-      - label: SIGN UP
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
       - type: Button
         label: Get started
         altText: ''

@@ -8,10 +8,16 @@ sections:
       color: text-light
       type: TitleBlock
     subtitle: ''
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      32 esports teams from different part of the country will fight for the
+      main prize on the Giant Arena. Be a part of the tournament, [check the
+      schedule
+      ➔](https://app.weblium.com/editor/website/680d7e4c176623c46de50a5e/680d8feffc3c7dd504de9f3a)
+
+
+
+
+
     actions:
       - label: Get started
         altText: ''

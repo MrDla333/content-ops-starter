@@ -277,7 +277,7 @@ sections:
     type: DividerSection
   - title:
       text: CONTACT US
-      color: text-dark
+      color: text-light
       type: TitleBlock
     subtitle: Section with a form subtitle
     text: |-

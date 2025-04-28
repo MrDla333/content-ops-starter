@@ -131,7 +131,7 @@ sections:
         textAlign: center
   - subtitle: DZLOL IS PROUDLY SPONSORED BY
     images:
-      - url: /images/DZLOL_NoText.png
+      - url: /images/output-onlinepngtools (7).png
         altText: Rangle logo
         type: ImageBlock
     motion: move-to-left

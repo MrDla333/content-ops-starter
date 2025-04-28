@@ -118,7 +118,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
     actions:
-      - label: Get started
+      - label: SIGN UP NOW
         altText: ''
         url: /
         showIcon: false

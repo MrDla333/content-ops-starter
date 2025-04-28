@@ -132,7 +132,7 @@ sections:
       type: Badge
     elementId: ''
     variant: big-list
-    colors: bg-dark-fg-light
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:

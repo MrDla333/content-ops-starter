@@ -91,7 +91,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: LIMITED PLACES
-        tagline: '   '
+        tagline: '‎ '
         subtitle: >-
           The event will only hold 32 Teams places are scares so make sure you
           apply

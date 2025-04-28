@@ -31,15 +31,6 @@
             "type": "Link"
         },
         {
-            "label": "Highlights",
-            "altText": "Careers page",
-            "url": "https://discord.gg/WbuamwEJre",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
-            "type": "Link"
-        },
-        {
             "label": "Partners",
             "altText": "Partners",
             "links": [

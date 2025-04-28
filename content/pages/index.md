@@ -203,7 +203,8 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        https://www.twitch.tv/dondalil3/clip/FunTenaciousCourgettePoooound-xThm0xF0usy4hjBI?filter=clips&range=all&sort=time
       autoplay: true
       loop: true
       muted: true

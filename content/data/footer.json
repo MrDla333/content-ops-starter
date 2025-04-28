@@ -28,14 +28,7 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "Twitter link",
-            "url": "https://www.youtube.com/@FearlessBrosGaming",
-            "icon": "youtube",
-            "type": "Social"
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",

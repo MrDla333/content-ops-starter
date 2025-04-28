@@ -99,6 +99,17 @@
                     "iconPosition": "right",
                     "style": "secondary",
                     "elementId": ""
+                },
+                {
+                    "type": "Link",
+                    "label": "See Tutorials",
+                    "altText": "",
+                    "url": "https://www.instagram.com/don.dalil/",
+                    "showIcon": false,
+                    "icon": "arrowRight",
+                    "iconPosition": "right",
+                    "style": "secondary",
+                    "elementId": ""
                 }
             ],
             "labelStyle": "secondary"

@@ -6,16 +6,7 @@
     },
     "text": "© 2025 DZLOL. All rights reserved.\n",
     "socialLinks": [],
-    "legalLinks": [
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
+    "legalLinks": [],
     "copyrightText": "© 2025 DZLOL. All rights reserved.\n",
     "colors": "bg-neutral-fg-dark",
     "type": "Footer",

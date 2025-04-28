@@ -329,8 +329,8 @@ sections:
     colors: bg-neutral-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: DZLOL - COMMUNITY CUP
+  metaDescription: Algerian League of Legends Championship Official Website
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

@@ -162,7 +162,7 @@ sections:
     type: ImageGallerySection
     title:
       type: TitleBlock
-      text: '-    OUR PARTNERS    -'
+      text: ㅤㅤㅤOUR PARTNERSㅤㅤ
       color: text-dark
   - posts:
       - content/pages/blog/case-study-1.md

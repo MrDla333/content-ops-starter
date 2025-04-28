@@ -60,7 +60,9 @@ sections:
       url: /images/cover (1).jpg
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: >-
+        The championship  will start very soon. we bet you don't want to miss
+        it!
       color: text-dark
       styles:
         self:

@@ -135,7 +135,7 @@ sections:
         altText: ANCES
         type: ImageBlock
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/output-onlinepngtools (5).png
         altText: Image alt text placeholder
         elementId: ''
         styles:

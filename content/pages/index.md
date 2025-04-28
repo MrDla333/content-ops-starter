@@ -124,9 +124,6 @@ sections:
         textAlign: center
   - subtitle: DZLOL IS PROUDLY SPONSORED BY
     images:
-      - url: /images/output-onlinepngtools (7).png
-        altText: ANCES
-        type: ImageBlock
       - type: ImageBlock
         url: /images/output-onlinepngtools (5).png
         altText: Image alt text placeholder

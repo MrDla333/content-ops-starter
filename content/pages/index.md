@@ -329,7 +329,7 @@ sections:
         style: primary
         elementId: null
     badge:
-      label: Trying to reach us?
+      label: having a problem?
       color: text-primary
       type: Badge
     colors: bg-neutral-fg-dark

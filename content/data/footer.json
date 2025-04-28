@@ -40,12 +40,6 @@
             "url": "https://www.youtube.com/@FearlessBrosGaming",
             "icon": "youtube",
             "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
         }
     ],
     "legalLinks": [

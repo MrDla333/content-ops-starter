@@ -328,7 +328,7 @@ sections:
 seo:
   metaTitle: DZLOL - COMMUNITY CUP
   metaDescription: Algerian League of Legends Championship Official Website
-  socialImage: /images/main-hero.jpg
+  socialImage: /images/DZLOL_NoText.png
   type: Seo
 type: PageLayout
 ---

@@ -132,7 +132,7 @@ sections:
   - subtitle: DZLOL IS PROUDLY SPONSORED BY
     images:
       - url: /images/output-onlinepngtools (7).png
-        altText: Rangle logo
+        altText: ANCES
         type: ImageBlock
     motion: move-to-left
     colors: bg-neutral-fg-dark

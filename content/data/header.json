@@ -24,7 +24,7 @@
         {
             "label": "Pick'ems",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/pickem",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

@@ -63,7 +63,7 @@ sections:
       text: >-
         The championship  will start very soon. we bet you don't want to miss
         it!
-      color: text-light
+      color: text-dark
       styles:
         self:
           textAlign: center

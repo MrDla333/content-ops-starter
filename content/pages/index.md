@@ -240,9 +240,9 @@ sections:
       color: text-light
       type: TitleBlock
     subtitle: Predict the outcome and win Prizes
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+    text: |
+      Join our Discord server and participate in our DZLOL PICK'EMS 
+      Climb the leaderboard and win Prizes
     actions:
       - label: Get started
         url: /

@@ -239,7 +239,7 @@ sections:
       text: DZLOL PICK'EMS
       color: text-light
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Predict the outcome and win Prizes
     text: >
       A service that provides advice and guidance to startups and small
       businesses.

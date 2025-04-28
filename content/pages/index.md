@@ -160,10 +160,6 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: '            OUR PARTNERS'
-      color: text-dark
   - posts:
       - content/pages/blog/case-study-1.md
       - content/pages/blog/case-study-2.md

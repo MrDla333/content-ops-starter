@@ -5,20 +5,6 @@
         "type": "ImageBlock"
     },
     "text": "",
-    "primaryLinks": {
-        "title": "Product",
-        "links": [
-            {
-                "label": "Documentation",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "secondaryLinks": {
         "title": "Company",
         "links": [

@@ -2,11 +2,7 @@
 title: LEAGUE OF LEGENDS COMMUNITY CUP
 slug: case-study-2
 date: '2025-01-02'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: ''
 featuredImage:
   url: /images/38sfn_sdng_dg.png
   altText: Case study 2

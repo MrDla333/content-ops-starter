@@ -203,7 +203,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: 'https://www.youtube.com/shorts/JdT5gKqeb5o'
+      url: 'https://www.youtube.com/watch?v=xeF5F_HCndA&t=698s'
       autoplay: true
       loop: true
       muted: true

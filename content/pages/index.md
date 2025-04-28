@@ -237,7 +237,7 @@ sections:
         textAlign: left
   - title:
       text: DZLOL PICK'EMS
-      color: text-dark
+      color: text-primary
       type: TitleBlock
     subtitle: Be in good company
     text: >

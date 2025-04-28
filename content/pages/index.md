@@ -131,9 +131,6 @@ sections:
         textAlign: center
   - subtitle: DZLOL IS PROUDLY SPONSORED BY
     images:
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
       - url: /images/telus-logo.svg
         altText: Telus logo
         type: ImageBlock

@@ -329,7 +329,7 @@ sections:
     type: GenericSection
 seo:
   metaTitle: DZLOL - COMMUNITY CUP
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Algerian League of Legends Championship Official Website
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout

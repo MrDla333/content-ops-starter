@@ -250,13 +250,6 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Link
     media:
       url: /images/4.png
       altText: Dope design preview

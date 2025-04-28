@@ -30,12 +30,6 @@
     },
     "socialLinks": [
         {
-            "altText": "GitHub link",
-            "url": "https://www.instagram.com/don.dalil/",
-            "icon": "instagram",
-            "type": "Social"
-        },
-        {
             "altText": "Twitter link",
             "url": "https://www.youtube.com/@FearlessBrosGaming",
             "icon": "youtube",

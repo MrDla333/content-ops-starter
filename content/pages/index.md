@@ -250,6 +250,7 @@ sections:
         iconPosition: right
         style: secondary
         type: Button
+        showIcon: true
     media:
       url: /images/4.png
       altText: Dope design preview

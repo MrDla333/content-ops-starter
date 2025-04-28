@@ -197,7 +197,16 @@ sections:
     subtitle: 5VS5 DON CUP TOURNAMENT
     text: |
       Watch the best moment from our 5VS5 League of Legends Tournament
-    actions: []
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: 'https://www.youtube.com/watch?v=xeF5F_HCndA&t=698s'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       title: Title of the video
       url: 'https://www.youtube.com/watch?v=xeF5F_HCndA&t=698s'

@@ -169,6 +169,7 @@ sections:
       type: TitleBlock
       text: ㅤㅤㅤㅤOUR PAST EVENTS
       color: text-dark
+    showExcerpt: false
   - title: Divider
     colors: bg-neutral-fg-dark
     styles:

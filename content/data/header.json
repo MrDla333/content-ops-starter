@@ -91,7 +91,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Twitch",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,

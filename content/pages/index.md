@@ -142,7 +142,7 @@ sections:
           self:
             borderRadius: medium
     motion: static
-    colors: bg-neutral-fg-dark
+    colors: bg-dark-fg-light
     styles:
       self:
         justifyContent: center

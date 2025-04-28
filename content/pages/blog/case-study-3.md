@@ -1,5 +1,5 @@
 ---
-title: Case study 3
+title: MARVEN RIVALS COMMUNITY CUP
 slug: case-study-3
 date: '2021-11-18'
 excerpt: >-

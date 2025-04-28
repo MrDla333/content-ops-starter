@@ -330,5 +330,6 @@ seo:
   metaDescription: Algerian League of Legends Championship Official Website
   socialImage: /images/DZLOL_NoText.png
   type: Seo
+  addTitleSuffix: true
 type: PageLayout
 ---

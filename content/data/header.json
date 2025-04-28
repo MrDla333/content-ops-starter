@@ -33,7 +33,7 @@
         {
             "label": "Highlights",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "/highlight",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",

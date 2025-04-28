@@ -195,7 +195,11 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: DA3DOUUCH PENTAKIIIIIIIIIIILLLLL SIUUUUUUUUUUU
-    text: ''
+    text: >
+      From our League of Legends Event in January
+
+      Watch Da3Douch from team "WIW WIW" gain an INSANE PENTAKILL against team
+      "DRF ESPORTS"
     actions: []
     media:
       title: Title of the video

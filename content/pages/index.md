@@ -330,7 +330,7 @@ sections:
         elementId: null
     badge:
       label: Contact Us
-      color: text-primary
+      color: text-light
       type: Badge
     colors: bg-neutral-fg-dark
     type: GenericSection

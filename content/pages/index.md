@@ -92,7 +92,9 @@ sections:
       - type: FeaturedItem
         title: LIMITED PLACES
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: >-
+          The event will only hold 32 Teams places are scares so make sure you
+          apply
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:

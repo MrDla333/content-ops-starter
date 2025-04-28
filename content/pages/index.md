@@ -174,7 +174,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: ㅤㅤㅤㅤㅤOUR PAST EVENTS
+      text: ㅤㅤㅤㅤOUR PAST EVENTS
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark

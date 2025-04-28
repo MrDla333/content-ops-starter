@@ -203,8 +203,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: >-
-        https://www.twitch.tv/dondalil3/clip/FunTenaciousCourgettePoooound-xThm0xF0usy4hjBI?filter=clips&range=all&sort=time
+      url: 'https://www.youtube.com/shorts/JdT5gKqeb5o'
       autoplay: true
       loop: true
       muted: true

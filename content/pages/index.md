@@ -68,7 +68,7 @@ sections:
       type: TitleBlock
     subtitle: Subtitle goes here
     items:
-      - title: 200%
+      - title: ''
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem

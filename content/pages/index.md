@@ -262,7 +262,7 @@ sections:
       altText: Dope design preview
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: WIN PRIZE IN OUR
       color: text-primary
       type: Badge
     colors: bg-neutral-fg-dark

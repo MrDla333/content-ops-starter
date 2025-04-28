@@ -80,7 +80,7 @@
                 },
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Youtube",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,

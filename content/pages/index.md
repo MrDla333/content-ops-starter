@@ -203,7 +203,7 @@ sections:
         altText: ''
         url: 'https://www.youtube.com/watch?v=xeF5F_HCndA&t=698s'
         showIcon: true
-        icon: arrowRight
+        icon: youtube
         iconPosition: right
         style: secondary
         elementId: ''

@@ -5,7 +5,7 @@ date: '2024-12-19'
 excerpt: ''
 featuredImage:
   url: /images/4dsdfbdb1.png
-  altText: Case study 3
+  altText: ''
   styles:
     self:
       borderRadius: x-large

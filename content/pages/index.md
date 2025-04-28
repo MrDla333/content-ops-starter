@@ -194,7 +194,7 @@ sections:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: DA3DOUUCH PENTAKIIIIIIIIIIILLLLL SIUUUUUUUUUUU
+    subtitle: 5VS5 DON CUP TOURNAMENT
     text: >
       From our League of Legends Event in January
 

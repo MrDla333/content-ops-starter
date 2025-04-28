@@ -93,7 +93,7 @@
                     "type": "Link",
                     "label": "Twitch",
                     "altText": "",
-                    "url": "/",
+                    "url": "https://www.twitch.tv/dondalil3/videos?featured=true&filter=clips&range=all",
                     "showIcon": false,
                     "icon": "arrowRight",
                     "iconPosition": "right",

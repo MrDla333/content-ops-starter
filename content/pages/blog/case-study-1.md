@@ -5,7 +5,7 @@ date: '2025-01-15'
 excerpt: ''
 featuredImage:
   url: /images/valor.png
-  altText: Case study 1
+  altText: ''
   styles:
     self:
       borderRadius: large

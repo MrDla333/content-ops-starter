@@ -129,7 +129,7 @@ sections:
         type: Button
     badge:
       label: WELCOME
-      color: text-primary
+      color: text-light
       styles:
         self:
           textAlign: center

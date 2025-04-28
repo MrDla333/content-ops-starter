@@ -131,9 +131,6 @@ sections:
         textAlign: center
   - subtitle: DZLOL IS PROUDLY SPONSORED BY
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
       - url: /images/wellster-logo.svg
         altText: Wellster logo
         type: ImageBlock

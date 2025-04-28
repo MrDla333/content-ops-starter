@@ -244,7 +244,7 @@ sections:
       Join our Discord server and participate in our DZLOL PICK'EMS 
       Climb the leaderboard and win Prizes
     actions:
-      - label: Get started
+      - label: Join Our Discord
         url: /
         icon: arrowRight
         iconPosition: right

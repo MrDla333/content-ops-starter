@@ -1,5 +1,5 @@
 ---
-title: LEAGUE of LEGENDS COMMUNITY CUP
+title: LEAGUE OF LEGENDS COMMUNITY CUP
 slug: case-study-2
 date: '2022-02-16'
 excerpt: >-

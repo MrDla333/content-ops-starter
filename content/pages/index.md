@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       text: 2025 DZLOL COMMUNITY CUP
-      color: text-light
+      color: text-dark
       type: TitleBlock
     subtitle: ''
     text: >+

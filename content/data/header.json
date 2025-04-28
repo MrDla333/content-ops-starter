@@ -69,7 +69,7 @@
             "links": [
                 {
                     "type": "Link",
-                    "label": "Dropdown item",
+                    "label": "Discord",
                     "altText": "",
                     "url": "/",
                     "showIcon": false,

@@ -129,7 +129,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: DZLOL IS PROUDLY SPONSORED
+  - subtitle: DZLOL IS PROUDLY SPONSORED BY
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo

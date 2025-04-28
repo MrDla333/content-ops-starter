@@ -70,25 +70,6 @@ sections:
       The event you've all been waiting for will begin very soon! Don't forget
       toapply for a chance to win HUGE Prices
     items:
-      - title: ''
-        subtitle: ''
-        text: ''
-        image:
-          altText: Featured icon three
-          elementId: ''
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
       - type: FeaturedItem
         title: LIMITED PLACES
         tagline: '‎ ‎ ‎ '

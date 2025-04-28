@@ -98,7 +98,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/icons8-clock (1).svg
           altText: Placeholder text
           styles:
             self:

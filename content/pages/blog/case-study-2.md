@@ -5,7 +5,7 @@ date: '2025-01-02'
 excerpt: ''
 featuredImage:
   url: /images/38sfn_sdng_dg.png
-  altText: Case study 2
+  altText: ''
   styles:
     self:
       borderRadius: x-large

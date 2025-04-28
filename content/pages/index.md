@@ -174,7 +174,7 @@ sections:
     hoverEffect: move-up
     title:
       type: TitleBlock
-      text: This Is A Big Headline
+      text: OUR PREVIOUS EVENTS
       color: text-dark
   - title: Divider
     colors: bg-light-fg-dark

@@ -60,7 +60,7 @@ sections:
       url: /images/cover (1).jpg
   - type: FeaturedItemsSection
     title:
-      text: THE CHAMPIONSHIP WILL START VERY SOON
+      text: THE CHAMPIONSHIP WILL START VERY SOON. WE BET YOU DON'T WANNA MISS IT
       color: text-primary
       styles:
         self:

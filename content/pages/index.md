@@ -95,8 +95,7 @@ sections:
         subtitle: >-
           The event will only hold 32 Teams places are scares so make sure you
           apply
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg

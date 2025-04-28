@@ -263,7 +263,7 @@ sections:
       type: ImageBlock
     badge:
       label: WIN PRIZE IN OUR
-      color: text-primary
+      color: text-light
       type: Badge
     colors: bg-neutral-fg-dark
     styles:

@@ -189,7 +189,7 @@ sections:
   - type: GenericSection
     title:
       text: RELIVE THE BEST MOMENTS
-      color: text-light
+      color: text-primary
       styles:
         self:
           textAlign: left

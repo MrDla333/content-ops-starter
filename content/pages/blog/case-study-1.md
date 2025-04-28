@@ -1,5 +1,5 @@
 ---
-title: 5VS5 VALORANT COMMUNITY CUP
+title: VALORANT COMMUNITY CUP
 slug: case-study-1
 date: '2022-01-05'
 excerpt: >-

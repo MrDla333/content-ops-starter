@@ -280,11 +280,11 @@ sections:
       color: text-light
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      feel free to contact us in our Social Media our from the form
+
+      if you are want to join our DZLOL Team feel free to send us a message too
+      :P
     media:
       fields:
         - name: name

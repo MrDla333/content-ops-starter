@@ -202,7 +202,7 @@ sections:
         label: WATCH IN OUR YOUTUBE CHANNEL
         altText: ''
         url: 'https://www.youtube.com/watch?v=xeF5F_HCndA&t=698s'
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary

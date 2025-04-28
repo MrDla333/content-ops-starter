@@ -68,7 +68,9 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      The event you've all been waiting for will begin very soon! Don't forget
+      toapply for a chance to win HUGE Prices
     items:
       - title: ''
         subtitle: ''

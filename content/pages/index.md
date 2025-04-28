@@ -90,7 +90,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
       - type: FeaturedItem
-        title: LIMITED TIME
+        title: LIMITED PLACES
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |

@@ -236,7 +236,7 @@ sections:
       subtitle:
         textAlign: left
   - title:
-      text: Business Consulting
+      text: DZLOL PICK'EMS
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company

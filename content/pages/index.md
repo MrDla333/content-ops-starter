@@ -195,11 +195,8 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: 5VS5 DON CUP TOURNAMENT
-    text: >
-      From our League of Legends Event in January
-
-      Watch Da3Douch from team "WIW WIW" gain an INSANE PENTAKILL against team
-      "DRF ESPORTS"
+    text: |
+      Watch the best moment from our 5VS5 League of Legends Tournament
     actions: []
     media:
       title: Title of the video

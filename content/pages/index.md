@@ -243,7 +243,7 @@ sections:
         type: Button
         showIcon: true
     media:
-      url: /images/4.png
+      url: /images/image_2025-04-30_180037053.png
       altText: Dope design preview
       type: ImageBlock
     badge:

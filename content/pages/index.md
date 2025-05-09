@@ -132,7 +132,7 @@ sections:
           self:
             borderRadius: medium
             borderWidth: 0
-        url: /images/DZLOL_NoText.png
+        url: /images/favicon.svg
     elementId: ''
     motion: static
     colors: bg-neutral-fg-dark

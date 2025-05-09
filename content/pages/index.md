@@ -124,7 +124,14 @@ sections:
         textAlign: center
   - type: ImageGallerySection
     subtitle: DZLOL IS PROUDLY SPONSORED BY
-    images: []
+    images:
+      - type: ImageBlock
+        url: /images/hero2.svg
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
     elementId: ''
     motion: move-to-left
     colors: bg-neutral-fg-dark

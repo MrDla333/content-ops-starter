@@ -131,7 +131,7 @@ sections:
         styles:
           self:
             borderRadius: medium
-            borderWidth: 2
+            borderWidth: 0
         url: /images/DZLOL_NoText.png
     elementId: ''
     motion: static

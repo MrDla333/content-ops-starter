@@ -132,6 +132,7 @@ sections:
           self:
             borderRadius: medium
             borderWidth: 2
+        url: /images/favicon.svg
     elementId: ''
     motion: static
     colors: bg-neutral-fg-dark

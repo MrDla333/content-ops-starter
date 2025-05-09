@@ -236,7 +236,7 @@ sections:
       Climb the leaderboard and win Prizes
     actions:
       - label: Join Our Discord
-        url: /
+        url: 'https://discord.gg/WbuamwEJre'
         icon: arrowRight
         iconPosition: right
         style: secondary

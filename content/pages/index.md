@@ -132,6 +132,7 @@ sections:
         styles:
           self:
             borderRadius: medium
+            borderWidth: 2
     elementId: ''
     motion: static
     colors: bg-neutral-fg-dark

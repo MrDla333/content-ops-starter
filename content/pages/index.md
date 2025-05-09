@@ -134,7 +134,7 @@ sections:
             borderWidth: 0
         url: /images/favicon.svg
       - type: ImageBlock
-        url: /images/output-onlinepngtools (5).png
+        url: /images/output-onlinepngtools (8).png
         altText: Image alt text placeholder
         elementId: ''
         styles:

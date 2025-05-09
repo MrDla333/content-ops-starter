@@ -122,20 +122,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: DZLOL IS PROUDLY SPONSORED BY
-    images: []
-    motion: static
-    colors: bg-neutral-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
-    title:
-      type: TitleBlock
-      text: ㅤㅤㅤㅤㅤOUR PARTNERS
-      color: text-dark
   - type: ImageGallerySection
     subtitle: DZLOL IS PROUDLY SPONSORED BY
     images:

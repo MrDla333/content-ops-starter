@@ -122,23 +122,42 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: DZLOL IS PROUDLY SPONSORED BY
+  - type: ImageGallerySection
+    subtitle: DZLOL IS PROUDLY SPONSORED BY
     images:
       - type: ImageBlock
-        url: /images/output-onlinepngtools (5).png
         altText: Image alt text placeholder
         elementId: ''
         styles:
           self:
             borderRadius: medium
-    motion: static
+            borderWidth: 0
+        url: /images/favicon.svg
+      - type: ImageBlock
+        url: /images/output-onlinepngtools (8).png
+        altText: Image alt text placeholder
+        elementId: ''
+        styles:
+          self:
+            borderRadius: medium
+    elementId: ''
+    motion: move-to-left
     colors: bg-neutral-fg-dark
     styles:
       self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
-    type: ImageGallerySection
     title:
       type: TitleBlock
       text: ㅤㅤㅤㅤㅤOUR PARTNERS
@@ -236,7 +255,7 @@ sections:
       Climb the leaderboard and win Prizes
     actions:
       - label: Join Our Discord
-        url: /
+        url: 'https://discord.gg/WbuamwEJre'
         icon: arrowRight
         iconPosition: right
         style: secondary

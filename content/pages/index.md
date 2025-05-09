@@ -126,7 +126,7 @@ sections:
     subtitle: DZLOL IS PROUDLY SPONSORED BY
     images:
       - type: ImageBlock
-        url: /images/DZLOL_NoText.png
+        url: /images/background-grid.svg
         altText: Image alt text placeholder
         elementId: ''
         styles:

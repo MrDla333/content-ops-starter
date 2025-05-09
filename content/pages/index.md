@@ -132,7 +132,6 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/redone X.png
         altText: Image alt text placeholder
         elementId: ''
         styles:

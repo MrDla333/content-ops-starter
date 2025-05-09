@@ -141,7 +141,7 @@ sections:
           self:
             borderRadius: medium
     elementId: ''
-    motion: static
+    motion: move-to-left
     colors: bg-neutral-fg-dark
     styles:
       self:

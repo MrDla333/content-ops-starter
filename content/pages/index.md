@@ -134,7 +134,7 @@ sections:
             borderWidth: 0
         url: /images/favicon.svg
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/Group.png
         altText: Image alt text placeholder
         elementId: ''
         styles:

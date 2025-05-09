@@ -133,13 +133,6 @@ sections:
             borderRadius: medium
             borderWidth: 0
         url: /images/favicon.svg
-      - type: ImageBlock
-        url: /images/redone-X.svg
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
     elementId: ''
     motion: static
     colors: bg-neutral-fg-dark

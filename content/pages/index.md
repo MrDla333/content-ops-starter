@@ -126,10 +126,6 @@ sections:
     subtitle: DZLOL IS PROUDLY SPONSORED BY
     images:
       - type: ImageBlock
-        url: /images/contenful-logo.svg
-        altText: Contentful logo
-        elementId: ''
-      - type: ImageBlock
         url: /images/sanity-logo.svg
         altText: Sanity logo
         elementId: ''

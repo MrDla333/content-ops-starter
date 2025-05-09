@@ -137,7 +137,7 @@ sections:
       text: ㅤㅤㅤㅤㅤOUR PARTNERS
       color: text-dark
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: DZLOL IS PROUDLY SPONSORED BY
     images:
       - type: ImageBlock
         url: /images/empathy-logo.svg

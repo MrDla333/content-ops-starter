@@ -123,14 +123,7 @@ sections:
       subtitle:
         textAlign: center
   - subtitle: DZLOL IS PROUDLY SPONSORED BY
-    images:
-      - type: ImageBlock
-        url: /images/output-onlinepngtools (5).png
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
+    images: []
     motion: static
     colors: bg-neutral-fg-dark
     styles:

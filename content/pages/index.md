@@ -124,11 +124,7 @@ sections:
         textAlign: center
   - type: ImageGallerySection
     subtitle: DZLOL IS PROUDLY SPONSORED BY
-    images:
-      - type: ImageBlock
-        url: /images/rangle-logo.svg
-        altText: Rangle logo
-        elementId: ''
+    images: []
     elementId: ''
     motion: move-to-left
     colors: bg-neutral-fg-dark

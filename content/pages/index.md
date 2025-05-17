@@ -140,12 +140,6 @@ sections:
         styles:
           self:
             borderRadius: medium
-      - type: ImageBlock
-        altText: Image alt text placeholder
-        elementId: ''
-        styles:
-          self:
-            borderRadius: medium
     elementId: ''
     motion: move-to-left
     colors: bg-neutral-fg-dark

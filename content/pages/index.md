@@ -141,7 +141,7 @@ sections:
           self:
             borderRadius: medium
       - type: ImageBlock
-        url: /images/hero2.svg
+        url: /images/3 Logo _Plan de travail 1 copie 4-Photoroom.png
         altText: Image alt text placeholder
         elementId: ''
         styles:
